@@ -2,6 +2,9 @@
 ## Project Objective
 This project is an interactive Excel dashboard built to monitor and analyze the daily sales performance of a team of Sales Executives across multiple regions.
 
+## Dataset used
+- <a href="https://github.com/amolghodake1714/-Sales-Performance-Dashboard-Excel-/blob/main/Sales_Performance.xlsx">Dataset</a>
+
 
 ## 📁 Overview
 
