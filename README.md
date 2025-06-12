@@ -5,6 +5,13 @@ This project is an interactive Excel dashboard built to monitor and analyze the 
 ## Dataset used
 - <a href="https://github.com/amolghodake1714/-Sales-Performance-Dashboard-Excel-/blob/main/Sales_Performance.xlsx">Dataset</a>
 
+## Process
+- Verify data for any missing values and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created Pivot Table
+- Created Pivot Chart
+- Add Slicers
+
 
 ## 📁 Overview
 
@@ -14,6 +21,7 @@ The dashboard presents sales data for each employee over a 5-day period. It incl
 - **Regional sales comparison**
 - **Target vs. Actual analysis**
 - **Interactive filters and visualizations**
+
 
 ## 🗂️ File Contents
 
@@ -66,5 +74,5 @@ It simplifies data interpretation and supports decision-making by presenting cle
 
 
 
-
+## Dashboard 
 <img width="701" alt="Sales_Performance Dashboard" src="https://github.com/user-attachments/assets/bb8a0779-fc69-4b50-9dfc-b083d55f9f23" />
